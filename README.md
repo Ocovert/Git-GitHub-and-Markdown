@@ -3,4 +3,4 @@ Git, GitHub, and Markdown challenge
 <br>
 <!br>
 
-Click -> page1.md to go to my custom page 
+Click -> [page1](/page1.md) to go to my custom page 
